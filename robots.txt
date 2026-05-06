@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://canuzlas.github.io/notes-rhh3ds/sitemap.xml
